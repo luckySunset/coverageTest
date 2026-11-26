@@ -1,6 +1,7 @@
 <script setup>
 import HelloWorld from '../components/HelloWorld.vue'
 import Interactions from '../components/Interactions.vue'
+import InteractiveTools from '../components/InteractiveTools.vue'
 
 const rrr = 1;
 </script>
@@ -25,6 +26,8 @@ const rrr = 1;
     <HelloWorld />
 
     <Interactions />
+
+    <InteractiveTools />
   </div>
 </template>
 
